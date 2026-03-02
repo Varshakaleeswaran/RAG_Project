@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Machine Learning is a subset of AI that allows systems to learn from data.
+
+Deep Learning is a type of machine learning based on neural networks.
+
+Natural Language Processing enables computers to understand human language.
+
+Computer Vision allows machines to interpret visual data such as images and videos.
+
+Reinforcement Learning trains agents using rewards and penalties.
