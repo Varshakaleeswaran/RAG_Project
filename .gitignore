@@ -1,3 +1,30 @@
+# Virtual Environment
 venv/
+env/
+.venv/
+
+# Python Cache Files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# ChromaDB / Vector Store
+vector_store/
+chroma/
+*.sqlite3
+
+# Streamlit Cache
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model Cache (HuggingFace)
+.cache/
