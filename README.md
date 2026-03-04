@@ -5,6 +5,9 @@ An AI-powered PDF Question Answering system built using Retrieval Augmented Gene
 This application allows users to upload any PDF and ask questions based on its content.
 
 ---
+## 📸 Application Demo
+
+![AI PDF Assistant Demo](screenshots/app_demo.png)
 
 ## 🚀 Features
 
